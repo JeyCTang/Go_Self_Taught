@@ -1,5 +1,7 @@
 # Go Self Study Notebook
-[toc]
+[TOC]
+
+
 ## Abstract
 This is the notebook which contains some important point during the process of my Golang studying.
 
